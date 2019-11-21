@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="scoringRules">
+</Property><Property Name="Solution File" Value="C:\firminpr\My SpiderOak\elicitationProcess_code\tortoise\processodeeducao\scoringRules\scoringRules.sln">
+</Property><Property Name="Date" Value="sábado, 9 de junho de 2012">
+</Property><Property Name="Time" Value="21:18">
+</Property></Properties><Event ErrorLevel="0" Project="scoringRules" Source="scoringRules\scoringRules.vcproj" Description="Converting project file 'C:\firminpr\My SpiderOak\elicitationProcess_code\tortoise\processodeeducao\scoringRules\scoringRules\scoringRules.vcproj'.">
+</Event><Event ErrorLevel="1" Project="scoringRules" Source="scoringRules\scoringRules.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="scoringRules" Source="scoringRules\scoringRules.vcproj" Description="Done converting to new project file 'C:\firminpr\My SpiderOak\elicitationProcess_code\tortoise\processodeeducao\scoringRules\scoringRules\scoringRules.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="scoringRules" Source="scoringRules\scoringRules.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="scoringRules.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="scoringRules.sln" Description="Converted">
+</Event></UpgradeLog>
