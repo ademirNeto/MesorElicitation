@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="calibration">
+</Property><Property Name="Solution File" Value="C:\projetos\processodeeducao\calibration\calibration.sln">
+</Property><Property Name="User Options File" Value="C:\projetos\processodeeducao\calibration\calibration.suo">
+</Property><Property Name="Date" Value="quarta-feira, 16 de maio de 2012">
+</Property><Property Name="Time" Value="13:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="calibration.sln" Description="File successfully backed up as C:\projetos\processodeeducao\calibration\calibration.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="calibration.suo" Description="File successfully backed up as C:\projetos\processodeeducao\calibration\calibration.suo.old">
+</Event><Event ErrorLevel="0" Project="calibration" Source="calibration\calibration.vcproj" Description="Converting project file 'C:\projetos\processodeeducao\calibration\calibration\calibration.vcproj'.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="calibration" Source="calibration\calibration.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="calibration" Source="calibration\calibration.vcproj" Description="Done converting to new project file 'C:\projetos\processodeeducao\calibration\calibration\calibration.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="calibration" Source="calibration\calibration.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="calibration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="calibration.sln" Description="Converted">
+</Event></UpgradeLog>
